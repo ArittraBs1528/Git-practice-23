@@ -4,5 +4,5 @@ int main()
 {
 
     cout<<"Hello";
-    lk
+    lk nice
 }
