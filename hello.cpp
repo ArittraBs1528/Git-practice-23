@@ -4,5 +4,4 @@ int main()
 {
 
     cout<<"Hello";
-    lk
 }
