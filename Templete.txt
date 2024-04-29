@@ -1,0 +1,31 @@
+1. Clean Code
+✅Chapter 3 : Function  - 30 min
+✅Chapter 4 : Comment   - 1.30 hr
+✅Chapter 5 : Formatting - 1.30 hr
+✅Chapter 6 : Object and DataStructures 1.00 hr
+
+
+2. Git course
+Chapter : Creating Snapshots   -  4 hr
+✅ Stagging files
+✅ Commint Changes
+✅Commiting best practice
+✅skipping the staging area
+✅remove files
+✅renaming or moving files
+✅Skipping the staging area
+✅Removing files
+✅Renaming or moving files
+✅Ignoring files
+✅short status
+✅viewing staged and unstaged
+✅visual diff tools
+✅viewing history
+✅viewing a commit
+✅unstage files
+✅discarding local changes
+✅restoring file to an earlier version
+✅creating snapshots with vscode
+✅creating snapshots with gitraken
+Chapter 3: Browsing  HIstory
+✅Introduction
